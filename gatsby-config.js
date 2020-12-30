@@ -1,14 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Kristen's Developer Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kristen Kinnear-Ohlmann`,
+      summary: `who lives and works in the Twin Cities (Minnesota).`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Developer blog illustrating problems I have solved.`,
+    siteUrl: `http://kristenkinnearohlmann.dev`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `kinnear_ohlmann`,
+      github: `kristenkinnearohlmann`,
+      linkedin: `kristenkinnearohlmann`,
+      email: `kristenkinnearohlmann@gmail.com`
     },
   },
   plugins: [

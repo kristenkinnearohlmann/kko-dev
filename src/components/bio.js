@@ -27,6 +27,9 @@ const Bio = () => {
           }
           social {
             twitter
+            github
+            linkedin
+            email
           }
         }
       }
@@ -54,10 +57,11 @@ const Bio = () => {
       {author?.name && (
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
+          {` `}{<br></br>}
+          <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter</a> 
+          | <a href={`https://github.com/${social?.github || ``}`}>GitHub</a>
+          | <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>LinkedIn</a>
+          | <a href={`mailto:${social?.email || ``}`}>Email</a>
         </p>
       )}
     </div>
