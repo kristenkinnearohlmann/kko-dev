@@ -8,10 +8,11 @@ module.exports = {
     description: `Developer blog illustrating problems I have solved.`,
     siteUrl: `http://kristenkinnearohlmann.dev`,
     social: {
+      portfolio: `kristenkinnearohlmann#projects`,
       twitter: `kinnear_ohlmann`,
       github: `kristenkinnearohlmann`,
       linkedin: `kristenkinnearohlmann`,
-      email: `kristenkinnearohlmann@gmail.com`
+      email: `kristenkinnearohlmann@gmail.com`,
     },
   },
   plugins: [
