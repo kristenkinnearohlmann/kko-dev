@@ -3,7 +3,7 @@ module.exports = {
     title: `Kristen's Developer Blog`,
     author: {
       name: `Kristen Kinnear-Ohlmann`,
-      summary: `who lives and works in the Twin Cities (Minnesota).`,
+      summary: `. I live and work in the Twin Cities (Minnesota).`,
     },
     description: `Developer blog illustrating problems I have solved.`,
     siteUrl: `http://kristenkinnearohlmann.dev`,
