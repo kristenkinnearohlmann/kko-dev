@@ -5,7 +5,7 @@ module.exports = {
       name: `Kristen Kinnear-Ohlmann`,
       summary: `. I live and work in the Twin Cities (Minnesota).`,
     },
-    description: `Developer blog illustrating problems I have solved.`,
+    description: `Developer blog written by Kristen Kinnear-Ohlmann.`,
     siteUrl: `http://kristenkinnearohlmann.dev`,
     social: {
       portfolio: `kristenkinnearohlmann#projects`,
