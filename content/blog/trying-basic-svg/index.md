@@ -8,7 +8,7 @@ One of my goals for building an instrument fingering chart site is to make it ea
 
 I had the opportunity to poke a little bit at [SVGs (scalable vector graphics)](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) for a work project and I decided this would be a good opportunity to try to work on some basics. The advantages I expected were better scalability for different devices and removing the need to store a lot of images. Let's be honest - my eyes are getting bad and I wanted something that was easier to see for me!
 
-Flutes are really accomodating for this kind of project - six of the pressable keys are circles! I looked up the W3 Schools tutorial on [creating an SVG circle](https://www.w3schools.com/graphics/svg_circle.asp) and made some circles that I could tailor. One of these sample circles was included in my [currying events blog](https://kristenkinnearohlmann.dev/static/cdd1622f6231a833480521f1a959b93d/c80d3/app-click.jpg).
+Flutes are really accommodating for this kind of project - six of the pressable keys are circles! I looked up the W3 Schools tutorial on [creating an SVG circle](https://www.w3schools.com/graphics/svg_circle.asp) and made some circles that I could tailor. One of these sample circles was included in my [currying events blog](https://kristenkinnearohlmann.dev/static/cdd1622f6231a833480521f1a959b93d/c80d3/app-click.jpg).
 
 ![sample SVG circle filled red](https://kristenkinnearohlmann.dev/static/cdd1622f6231a833480521f1a959b93d/c80d3/app-click.jpg)
 
