@@ -1,5 +1,5 @@
 ---
-title: Handling JavaScript Promises with Async and Await
+title: Handling JavaScript Promises with Async/Await
 date: "2021-10-24T20:41:33.284Z"
 description: "Learning the equivalent syntax of async/await for promises and callback chaining"
 ---
