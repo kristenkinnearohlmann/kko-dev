@@ -101,7 +101,7 @@ Additions to note in the image below:
 - Choose **Pipeline permissions**  
 ![Azure variable group permissions](./azure-12-pipelines-library-perms.jpg)
 - Click the `+` to add the pipeline configured above to the permission group  
-![Azure varuable group permissions add](./azure-13-pipelines-library-perms-add.jpg)
+![Azure variable group permissions add](./azure-13-pipelines-library-perms-add.jpg)
 - The permissions are automatically saved
 
 ## Run the build pipeline
