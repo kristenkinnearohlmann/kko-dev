@@ -1,5 +1,5 @@
 ---
-title: Throw a Custom Error in JavaScipt
+title: Throw a Custom Error in JavaScript
 date: "2021-11-21T22:50:33.284Z"
 description: "Brief tutorial on throwing a custom error in JavaScript"
 ---
