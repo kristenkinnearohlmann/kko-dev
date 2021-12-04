@@ -1,6 +1,7 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-01T12:39:33.284Z"
+date: "2021-12-04T15:35:33.284Z"
+originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
 
@@ -14,3 +15,6 @@ I listened to the introduction before running upstairs to rescue my burning cast
 
 December 3: <https://scrimba.com/scrim/co2cc4e3a8c873d98ca22cdc1>  
 I ran into some trouble starting this one - I needed to back out and logically think through where I was putting things into the code. I kept it really basic but I got it completed. It was similar to December 2, in that the challenge was to update an existing page with new information, so I grabbed a few emoji to jazz up my work.
+
+December 4: <https://scrimba.com/scrim/co84f459c95515b0102050ae2>
+The challenge today was to create a checklist from an array of items. I had my inital moment of "hey, how do I do this?" before I was able to knock out the basic challenge. I would normally try to complete the stretch goals on a weekend, but my rehearsal went long today and I have a commitment tonight. Perhaps tomorrow I can give them all a try!
