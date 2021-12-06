@@ -5,7 +5,9 @@ originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
 
-The JavaScriptmas challenge is what started it all!
+The JavaScriptmas challenge is what started it all! In 2020, I took a chance with my elementary JS knowledge to tackle the Scrimba 202 JavaScriptmas challeneges, even though I had not yet started that learning path in my Flatiron program. Although I had to do quite a lot of Google searches to complete those challenges, I remember learning a lot and feeling more capable than I had imaged I would.
+
+I'm excited to participate in this year's challenges! With my Flatiron program complete, I am enjoying the ability to knock the initial challenges out quickly while expecting to be challenged along the way. I will continue to add daily to this blog until all 24 days are complete.
 
 December 1: <https://scrimba.com/scrim/coa0745819274e27680de0c0d>  
 I'm glad I clicked early because the submission time is midnight GMT! Even though I have gained a vast amount of experience since last year, I was still afraid to get started. Until I did - then it was like "Hey, great! A nice easy warm-up!" I was able to run through the _brute force-more elegant_ cycle really quickly and get the solution working. Day 1 done!
