@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-05T19:02:33.284Z"
+date: "2021-12-06T17:54:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -23,3 +23,6 @@ The challenge today was to create a checklist from an array of items. I had my i
 
 December 5: <https://scrimba.com/scrim/coe4c492f82ca2bcd19f2e8ed>
 I missed posting before midnight GMT because I didn't get the challenge done before church and I had an evening concert. I went ahead and completed it to ensure I get all days done! This was a nice little refreshed on how to perform getting a random number.
+
+December 6: <https://scrimba.com/scrim/coce2435b83039c210a34a9c7>
+The instructions were a little unclear but I think I did what was expected. It may have been because it was more straightforward than I expected? The hint asked you to use toggle on classlist, so I included that. I know the button on the text is changing appropriately so I called this good.
