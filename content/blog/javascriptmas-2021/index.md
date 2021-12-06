@@ -5,7 +5,7 @@ originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
 
-The JavaScriptmas challenge is what started it all! In 2020, I took a chance with my elementary JS knowledge to tackle the Scrimba 202 JavaScriptmas challeneges, even though I had not yet started that learning path in my Flatiron program. Although I had to do quite a lot of Google searches to complete those challenges, I remember learning a lot and feeling more capable than I had imaged I would.
+The JavaScriptmas challenge is what started it all! In 2020, I took a chance with my elementary JS knowledge to tackle the Scrimba 202 JavaScriptmas challenges, even though I had not yet started that learning path in my Flatiron program. Although I had to do quite a lot of Google searches to complete those challenges, I remember learning a lot and feeling more capable than I had imaged I would.
 
 I'm excited to participate in this year's challenges! With my Flatiron program complete, I am enjoying the ability to knock the initial challenges out quickly while expecting to be challenged along the way. I will continue to add daily to this blog until all 24 days are complete.
 
@@ -19,7 +19,7 @@ December 3: <https://scrimba.com/scrim/co2cc4e3a8c873d98ca22cdc1>
 I ran into some trouble starting this one - I needed to back out and logically think through where I was putting things into the code. I kept it really basic but I got it completed. It was similar to December 2, in that the challenge was to update an existing page with new information, so I grabbed a few emoji to jazz up my work.
 
 December 4: <https://scrimba.com/scrim/co84f459c95515b0102050ae2>
-The challenge today was to create a checklist from an array of items. I had my inital moment of "hey, how do I do this?" before I was able to knock out the basic challenge. I would normally try to complete the stretch goals on a weekend, but my rehearsal went long today and I have a commitment tonight. Perhaps tomorrow I can give them all a try!
+The challenge today was to create a checklist from an array of items. I had my initial moment of "hey, how do I do this?" before I was able to knock out the basic challenge. I would normally try to complete the stretch goals on a weekend, but my rehearsal went long today and I have a commitment tonight. Perhaps tomorrow I can give them all a try!
 
 December 5: <https://scrimba.com/scrim/coe4c492f82ca2bcd19f2e8ed>
 I missed posting before midnight GMT because I didn't get the challenge done before church and I had an evening concert. I went ahead and completed it to ensure I get all days done! This was a nice little refreshed on how to perform getting a random number.
