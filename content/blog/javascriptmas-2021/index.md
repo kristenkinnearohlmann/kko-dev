@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-04T15:35:33.284Z"
+date: "2021-12-05T19:02:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -18,3 +18,6 @@ I ran into some trouble starting this one - I needed to back out and logically t
 
 December 4: <https://scrimba.com/scrim/co84f459c95515b0102050ae2>
 The challenge today was to create a checklist from an array of items. I had my inital moment of "hey, how do I do this?" before I was able to knock out the basic challenge. I would normally try to complete the stretch goals on a weekend, but my rehearsal went long today and I have a commitment tonight. Perhaps tomorrow I can give them all a try!
+
+December 5: <https://scrimba.com/scrim/coe4c492f82ca2bcd19f2e8ed>
+I missed posting before midnight GMT because I didn't get the challenge done before church and I had an evening concert. I went ahead and completed it to ensure I get all days done! This was a nice little refreshed on how to perform getting a random number.
