@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-07T11:41:33.284Z"
+date: "2021-12-08T18:37:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -29,3 +29,6 @@ The instructions were a little unclear but I think I did what was expected. It m
 
 December 7: <https://scrimba.com/scrim/co0a14661a0a96793e3f5fc25>  
 I was initially apprehensive about this challenge because I know almost nothing about using audio on sites, other than learning knowledge. Googling helped a lot with this one! It was quite gratifying to be able to get the basic challenge working!
+
+December 8: <https://scrimba.com/scrim/co38b44da8fb9993b6a7edf39>
+I had to run in the middle of the day when the local field with the dome up had the track available, so I missed submitting by midnight GMT. It was fun to see the same solution from yesterday to play audio reproduced in today's challenge so I could build on it! I knew that the solution would involve a CSS transform, something I need to continue to study, so it was great to have some practice!
