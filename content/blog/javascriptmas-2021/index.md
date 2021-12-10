@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-09T13:13:33.284Z"
+date: "2021-12-10T11:26:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -35,3 +35,6 @@ I had to run in the middle of the day when the local field with the dome up had 
 
 December 9: <https://scrimba.com/scrim/co71d43a7bae12ff3f3cba89b>  
 I'm enjoying these easier challenges because I know the harder ones are coming! I left my decorations pretty plain and solved just the basic challenge. This is another example where I will return to the challenge later to work on the stretch goals since they apply to projects I have in development.
+
+December 10: <https://scrimba.com/scrim/co3ca4b54a7a3b0663b633481>  
+I was not aware of the `meter` HTML element so this was fun! I hard-coded my Christmas day because even though I could see the date was set correctly when I created a variable, getting the day value for it gave me 24 instead of 25? Something to look into later!
