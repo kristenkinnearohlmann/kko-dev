@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-10T11:26:33.284Z"
+date: "2021-12-11T08:53:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -38,3 +38,6 @@ I'm enjoying these easier challenges because I know the harder ones are coming! 
 
 December 10: <https://scrimba.com/scrim/co3ca4b54a7a3b0663b633481>  
 I was not aware of the `meter` HTML element so this was fun! I hard-coded my Christmas day because even though I could see the date was set correctly when I created a variable, getting the day value for it gave me 24 instead of 25? Something to look into later!
+
+December 11: <https://scrimba.com/scrim/co7ca4f33ab0b9f6d6d1440c9>  
+I love image carousels! I remember working on the one for JavaScriptmas 2020 and feeling like things were finally clicking for me, so it was fun to revisit that moment.
