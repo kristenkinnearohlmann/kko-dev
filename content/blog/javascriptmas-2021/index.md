@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-11T08:53:33.284Z"
+date: "2021-12-12T16:40:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -41,3 +41,6 @@ I was not aware of the `meter` HTML element so this was fun! I hard-coded my Chr
 
 December 11: <https://scrimba.com/scrim/co7ca4f33ab0b9f6d6d1440c9>  
 I love image carousels! I remember working on the one for JavaScriptmas 2020 and feeling like things were finally clicking for me, so it was fun to revisit that moment.
+
+December 12: <https://scrimba.com/scrim/co3364b879d5c8378f9a7c4f0>  
+I had to solve this one 3 times - my computer crashed, then I had to log back into Scrimba! I love adding items to lists with JS, so this one was fast and easy. I should probably start doing the challenge items too!
