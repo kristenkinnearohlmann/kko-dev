@@ -44,3 +44,6 @@ I love image carousels! I remember working on the one for JavaScriptmas 2020 and
 
 December 12: <https://scrimba.com/scrim/co3364b879d5c8378f9a7c4f0>  
 I had to solve this one 3 times - my computer crashed, then I had to log back into Scrimba! I love adding items to lists with JS, so this one was fast and easy. I should probably start doing the challenge items too!
+
+December 13: <https://scrimba.com/scrim/co0f64e7b92900de261c5d7cc>  
+This one took longer than expected! I appreciated a vegetarian option in the food to be served.
