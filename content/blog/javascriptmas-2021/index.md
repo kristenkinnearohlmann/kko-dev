@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-12T16:40:33.284Z"
+date: "2021-12-13T09:43:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
