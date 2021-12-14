@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-13T09:43:33.284Z"
+date: "2021-12-14T10:25:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -47,3 +47,6 @@ I had to solve this one 3 times - my computer crashed, then I had to log back in
 
 December 13: <https://scrimba.com/scrim/co0f64e7b92900de261c5d7cc>  
 This one took longer than expected! I appreciated a vegetarian option in the food to be served.
+
+December 14: <https://scrimba.com/scrim/co6cc42c3a260dac960696e99>  
+I was able to solve duplicating the elf in about 2 minutes - new record! Since I'm on Day 2 of a workshop in-person with Frontend Masters, I decided not to tackle any of the additional challenges yet.
