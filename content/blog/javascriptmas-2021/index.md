@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-16T15:53:33.284Z"
+date: "2021-12-17T12:23:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -56,3 +56,6 @@ I was able to get my greeting switched pretty quick! I'll have to go back and ad
 
 December 16: <https://scrimba.com/scrim/cof934de29e2312656127a527>  
 My solution to retrieve a movie based on age and genre had just one thing I think I could change but I left the working solution as is.
+
+December 17: <https://scrimba.com/scrim/co4d34da68ae8afe9b6c0b322>  
+I had fun sorting people into naughty and nice lists!
