@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-17T12:23:33.284Z"
+date: "2021-12-18T15:56:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -59,3 +59,6 @@ My solution to retrieve a movie based on age and genre had just one thing I thin
 
 December 17: <https://scrimba.com/scrim/co4d34da68ae8afe9b6c0b322>  
 I had fun sorting people into naughty and nice lists!
+
+December 18: <https://scrimba.com/scrim/co30b4b35b4620a4b4a0db658>  
+This was the first challenge that really stumped me. I wasn't clear on the explanation, and the hint didn't help me much more. I got a solution working but it's pretty ugly. It reminded me that periodic studying of CSS is a helpful thing, so I need to add it back to my study list!
