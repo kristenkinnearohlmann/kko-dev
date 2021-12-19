@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-18T15:56:33.284Z"
+date: "2021-12-19T13:49:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -62,3 +62,6 @@ I had fun sorting people into naughty and nice lists!
 
 December 18: <https://scrimba.com/scrim/co30b4b35b4620a4b4a0db658>  
 This was the first challenge that really stumped me. I wasn't clear on the explanation, and the hint didn't help me much more. I got a solution working but it's pretty ugly. It reminded me that periodic studying of CSS is a helpful thing, so I need to add it back to my study list!
+
+December 19: <https://scrimba.com/scrim/co9664c42b38f59b88d1e5ea2>  
+I was momentarily stumped on how to implement `async` and `await`, since I wanted to take that approach rather than the intermediate `fetch...then` pattern. Once I re-wrote the code a second time to working state, I was able to finish off the challenge.
