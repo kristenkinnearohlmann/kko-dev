@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-19T13:49:33.284Z"
+date: "2021-12-20T13:43:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -65,3 +65,6 @@ This was the first challenge that really stumped me. I wasn't clear on the expla
 
 December 19: <https://scrimba.com/scrim/co9664c42b38f59b88d1e5ea2>  
 I was momentarily stumped on how to implement `async` and `await`, since I wanted to take that approach rather than the intermediate `fetch...then` pattern. Once I re-wrote the code a second time to working state, I was able to finish off the challenge.
+
+December 20: <https://scrimba.com/scrim/cod594aa5a1e49d0525051638>  
+It took me a while to determine how to invoke the color changing on the snowman items, and my solution is hacky but it works. I'm still not sure what to do with the `input` variable that was given, so I'll have to watch the solution tomorrow to see what I could have done differently.
