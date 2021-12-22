@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-21T17:26:33.284Z"
+date: "2021-12-22T12:57:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -71,3 +71,6 @@ It took me a while to determine how to invoke the color changing on the snowman 
 
 December 21: <https://scrimba.com/scrim/co7cd418fadd00916fc7adc8c>  
 It took me a good amount of time to solve the speed calculation. I decided to add a button to perform the calculation instead of trying to figure out which of the events I wanted to trap.
+
+December 22: <https://scrimba.com/scrim/coa294e70ad0d0a6a34fc5f3e>  
+Something kept crashing my browser while I tried to solve this challenge, so I coded it outside Scrimba then pasted it back in. I still had to look up `setInterval()` to use it properly! This did provide me with some practice for a countdown timer I was going to build, so I was glad to have this experience!
