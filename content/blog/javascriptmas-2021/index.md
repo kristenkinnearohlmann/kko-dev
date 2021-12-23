@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-22T12:57:33.284Z"
+date: "2021-12-23T11:11:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -74,3 +74,6 @@ It took me a good amount of time to solve the speed calculation. I decided to ad
 
 December 22: <https://scrimba.com/scrim/coa294e70ad0d0a6a34fc5f3e>  
 Something kept crashing my browser while I tried to solve this challenge, so I coded it outside Scrimba then pasted it back in. I still had to look up `setInterval()` to use it properly! This did provide me with some practice for a countdown timer I was going to build, so I was glad to have this experience!
+
+December 23: <https://scrimba.com/scrim/co62740e180f54cea9654b055>  
+The challenges are almost complete for 2021! I liked having a nice, light challenge today to change the sign for Santa. One more challenge to close out the year coming tomorrow!
