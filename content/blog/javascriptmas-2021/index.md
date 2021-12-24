@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-23T11:11:33.284Z"
+date: "2021-12-24T7:47:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -77,3 +77,6 @@ Something kept crashing my browser while I tried to solve this challenge, so I c
 
 December 23: <https://scrimba.com/scrim/co62740e180f54cea9654b055>  
 The challenges are almost complete for 2021! I liked having a nice, light challenge today to change the sign for Santa. One more challenge to close out the year coming tomorrow!
+
+December 24: <https://scrimba.com/scrim/cedE4mT4>  
+It seems like the sharing for this challenge was turned off at 13:00 GMT, so I had to clone the scrim to share it. I searched around for a sound effect to add to the sleigh launcher and it was fun; I forgot you could add files into the scrim - yay!
