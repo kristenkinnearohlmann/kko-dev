@@ -1,6 +1,6 @@
 ---
 title: JavaScriptmas 2021
-date: "2021-12-24T7:47:33.284Z"
+date: "2021-12-26T22:50:33.284Z"
 originaldate: "2021-12-01T12:39:33.284Z"
 description: "My solutions for the 2021 JavaScriptmas challenges"
 ---
@@ -80,3 +80,7 @@ The challenges are almost complete for 2021! I liked having a nice, light challe
 
 December 24: <https://scrimba.com/scrim/cedE4mT4>  
 It seems like the sharing for this challenge was turned off at 13:00 GMT, so I had to clone the scrim to share it. I searched around for a sound effect to add to the sleigh launcher and it was fun; I forgot you could add files into the scrim - yay!
+
+## Final thoughts
+
+I was able to solve most of this year's challenges very quickly. It was great to see the outcome of my bootcamp education and contiuous learning. If there are additional stretch goals next year, I will definitely take them on. After a couple of days taking a break, I'll be back working on my personal projects.
