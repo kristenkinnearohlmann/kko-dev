@@ -8,11 +8,12 @@ module.exports = {
     description: `Developer blog written by Kristen Kinnear-Ohlmann.`,
     siteUrl: `http://kristenkinnearohlmann.dev`,
     social: {
-      portfolio: `kristenkinnearohlmann#projects`,
-      twitter: `kinnear_ohlmann`,
+      email: `kristenkinnearohlmann@gmail.com`,
       github: `kristenkinnearohlmann`,
       linkedin: `kristenkinnearohlmann`,
-      email: `kristenkinnearohlmann@gmail.com`,
+      portfolio: `kristenkinnearohlmann#projects`,
+      twitter: `kinnear_ohlmann`,
+      wakatime: `@kinnear_ohlmann`,
     },
   },
   plugins: [

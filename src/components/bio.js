@@ -31,6 +31,7 @@ const Bio = () => {
             github
             linkedin
             email
+            wakatime
           }
         }
       }
@@ -57,12 +58,22 @@ const Bio = () => {
       )}
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong>{author?.summary || null}
-          {` `}{<br></br>}
-          <a href={`https://github.com/${social?.portfolio || ``}`}>Portfolio</a>
-          | <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter</a> 
-          | <a href={`https://github.com/${social?.github || ``}`}>GitHub</a>
-          | <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>LinkedIn</a>
+          Written by <strong>{author.name}</strong>
+          {author?.summary || null}
+          {` `}
+          {<br></br>}
+          <a href={`https://github.com/${social?.portfolio || ``}`}>
+            Portfolio
+          </a>{" "}
+          |{" "}
+          <a href={`https://wakatime.com/${social?.wakatime || ``}`}>
+            WakaTime
+          </a>{" "}
+          | <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter</a>{" "}
+          | <a href={`https://github.com/${social?.github || ``}`}>GitHub</a> |{" "}
+          <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>
+            LinkedIn
+          </a>{" "}
           | <a href={`mailto:${social?.email || ``}`}>Email</a>
         </p>
       )}
