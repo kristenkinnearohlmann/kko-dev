@@ -26,6 +26,6 @@ By keying into the fact that SQL Server was identifying the ID value as a `float
 SELECT CONVERT(nvarchar,CONVERT(bigint,@IDValue)) As IDValue
 ```
 
-![convert the float value to biginto then to nvarchar](img3-convert-bigint-and-nvarchar.jpg)
+![convert the float value to bigint then to nvarchar](img3-convert-bigint-and-nvarchar.jpg)
 
 By first converting the `float` value to `bigint`, the actual value is preserved. Further converting the resulting `bigint` value to `nvarchar` ensures a smooth insert into the table via an explicit data type. With this revised conversion, I was able to finish building the needed backfill table to complete my work.
