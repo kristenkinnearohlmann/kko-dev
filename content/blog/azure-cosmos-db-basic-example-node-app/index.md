@@ -6,7 +6,7 @@ description: "Process to set up Azure Cosmos DB, add a database and collections,
 
 I have had an opportunity to work on a project that uses [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) with the [MongDB API](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/mongodb-introduction) as the backend database. I wanted to spend a little more time on my own understanding how to perform basic setup and a simple set of CRUD operations from a Node application, as well as construct an easy-to-follow procedure for other developers.
 
-I have an Azure account that I created to explore Microsoft's capabilites, which I used to write this blog. At the time I created my account, I was not able to use a Gmail account, although this may have changed. If you are interested in following the steps below, I recommend getting your Azure account established first.
+I have an Azure account that I created to explore Microsoft's capabilities, which I used to write this blog. At the time I created my account, I was not able to use a Gmail account, although this may have changed. If you are interested in following the steps below, I recommend getting your Azure account established first.
 
 ## Create and Configure Cosmos DB instance
 
@@ -21,7 +21,7 @@ Locate the Cosmos DB option to start creating the service.
 If this is the first instance to be created, the option to create a new account will be the main content on the page.  
 ![Azure Create new Cosmos DB account](azure-3-create-cosmos-acct.jpg)
 
-The first part of configuration is selecting a connection API. Microsoft encourages you to use the Core (SQL) option, which correlates to familiar SQL syntax for creating and using resources; there are SDKs for .NET, Javascript, Python and Java. There are a number of other APIs available, each with a description of their capabilites. The project I was modeling used the document database MongoDB API, so I selected **Azure Cosmos DB API for MongoDB**.  
+The first part of configuration is selecting a connection API. Microsoft encourages you to use the Core (SQL) option, which correlates to familiar SQL syntax for creating and using resources; there are SDKs for .NET, Javascript, Python and Java. There are a number of other APIs available, each with a description of their capabilities. The project I was modeling used the document database MongoDB API, so I selected **Azure Cosmos DB API for MongoDB**.  
 ![Azure choose database connection API](azure-4-api-choice.jpg)
 
 The second part of configuration is the project details:
