@@ -11,7 +11,7 @@ I found I had 2 versions of Ubuntu installed, each with its own password, and la
 ## Password Change Process
 
 - Using the Ubuntu shell, note the following:
-  - The version of Ubuntu you are using (I had a previous install as well as Ubunto 18.04 in WSL)
+  - The version of Ubuntu you are using (I had a previous install as well as Ubuntu 18.04 in WSL)
   - Your username
 - Close the Ubuntu shell
 - Open PowerShell as **Admin** and reset the Ubuntu config to log in as `root`
