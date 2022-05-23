@@ -4,9 +4,9 @@ date: "2022-05-22T20:30:33.284Z"
 description: "Basic access and commands for an installation of PostgreSQL on Windows Subsystem for Linux"
 ---
 
-I started working through [freeCodeCamp's](https://www.freecodecamp.org/) beta curriculum for [Relational Database](https://www.freecodecamp.org/learn/relational-database/). I like to have a contrasting educational opportunity when I need a mental break; solutions to data structure and algorithm problems and other coding questions usually come to me when I'm studing a different topic.
+I started working through [freeCodeCamp's](https://www.freecodecamp.org/) beta curriculum for [Relational Database](https://www.freecodecamp.org/learn/relational-database/). I like to have a contrasting educational opportunity when I need a mental break; solutions to data structure and algorithm problems and other coding questions usually come to me when I'm studying a different topic.
 
-Since databases are my original jam, I thought it would be profitable to work on my command line-level skills so I can gain strength with other types of databases. The first lessons introduce you to working with PostgreSQL to learn syntax. Although I'm very familiar with SQL itself, it had been some time since I had worked with Postgres on the command line. Part of the [Flatiron School](https://flatironschool.com/) curriculum had students install Postgress (for me, on my WSL install) but we used SQLite for projects so my knowledge of accessing and using Postgres had gotten fuzzy.
+Since databases are my original jam, I thought it would be profitable to work on my command line-level skills so I can gain strength with other types of databases. The first lessons introduce you to working with PostgreSQL to learn syntax. Although I'm very familiar with SQL itself, it had been some time since I had worked with Postgres on the command line. Part of the [Flatiron School](https://flatironschool.com/) curriculum had students install Postgres (for me, on my WSL install) but we used SQLite for projects so my knowledge of accessing and using Postgres had gotten fuzzy.
 
 After spending a few days on the [CodeAlly](https://codeally.io/) platform that is included in freeCodeCamp's lessons, I decided to try looking back into my local install and get a set of basic instructions together. This will help when I return to my Flatiron projects to convert them to Postgres and deploy them to publicly available servers. For more information on installing Postgres, see <https://www.postgresql.org/>.
 
@@ -16,7 +16,7 @@ I knew I had Postgres installed so the first thing I tried was to invoke it. I r
 
 ![Check psl](./psql-01-check.jpg)
 
-I vaugely recalled that the service is generally stopped so I tracked down the command to get it started.
+I vaguely recalled that the service is generally stopped so I tracked down the command to get it started.
 
 ![Start postgres service](./psql-02-start.jpg)
 
