@@ -8,7 +8,7 @@ I started working through [freeCodeCamp's](https://www.freecodecamp.org/) beta c
 
 Since databases are my original jam, I thought it would be profitable to work on my command line-level skills so I can gain strength with other types of databases. The first lessons introduce you to working with PostgreSQL to learn syntax. Although I'm very familiar with SQL itself, it had been some time since I had worked with Postgres on the command line. Part of the [Flatiron School](https://flatironschool.com/) curriculum had students install Postgress (for me, on my WSL install) but we used SQLite for projects so my knowledge of accessing and using Postgres had gotten fuzzy.
 
-After spending a few days on the [CodeAlly](https://codeally.io/) platform that is included in freeCodeCamp's lessons, I decided to try looking back into my local install and get a set of basic instructions together. This will help when I return to my Flatiron projects to convert them to Postgres and deploy them to publicly available servers.
+After spending a few days on the [CodeAlly](https://codeally.io/) platform that is included in freeCodeCamp's lessons, I decided to try looking back into my local install and get a set of basic instructions together. This will help when I return to my Flatiron projects to convert them to Postgres and deploy them to publicly available servers. For more information on installing Postgres, see <https://www.postgresql.org/>.
 
 ## Working with `psql` on WSL
 
